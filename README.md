@@ -6,14 +6,19 @@ All files are in the folder "2025EctoFunction"
 File designations are below:
 
 16S_ASV_t.csv
-  -Species by site table for 16S (bacteria and archaea) ASV read counts
+  -Species by site table for 16S (bacteria and archaea) ASV read counts.
+  
 16S_tax.csv
-  -Taxonomy for 16S ASVs
+  -Taxonomy for 16S ASVs.
+  
 ECM_meta.csv
-  -Meta data and other biogeochemical/ ecosystem data generated and used for analysis
+  -Meta data and other biogeochemical/ ecosystem data generated and used for analysis.
+  
 ECM_soil.csv
-  -Data used to assess soil organic matter properties
+  -Data used to assess soil organic matter properties.
+  
 ECM_trait.R
-  -R code for generating figures and tables in the manuscript
+  -R code for generating figures and tables in the manuscript.
+  
 Fungi.csv
-  -Species by site table for ITS (Fungal) ASV read counts with assoaicted taxonomy and functional guild assignments
+  -Species by site table for ITS (Fungal) ASV read counts with assoaicted taxonomy and functional guild assignments.
